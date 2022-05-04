@@ -5,7 +5,10 @@ In this repository there are two test Java functions and the main Java lineCount
 
 Project Video Submission Link: https://drive.google.com/drive/folders/1J596Fjr2qEkI7WR1pLcxc1a0G233ykyX?usp=sharing
 
-Google Dataflow Link: https://console.cloud.google.com/dataflow/jobs/us-central1/2022-05-04_10_43_51-4484581473226600916?project=cloudcomputingdataflow
+Google Dataflow Image links: https://gyazo.com/70a96def2ab82fcfcbd9238f07927bb0 **Collapsed pipeline view
+                             https://gyazo.com/a34498f70cfc87d0c7a7ec5b9c2fabd2 **Table view of our pipeline
+                             https://gyazo.com/0d27cf6f66a5796df4101b712994dba3 **Job completed screen and metrics
+                      
 **This contains the data pipeline chart via Google Dataflow
 
 Google Cloud Storage Link: https://console.cloud.google.com/storage/browser/_details/dataflow-cloudcomputingdataflow/linecount-00000-of-00001;tab=live_object?project=cloudcomputingdataflow
