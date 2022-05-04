@@ -5,11 +5,10 @@ In this repository there are two test Java functions and the main Java lineCount
 
 Project Video Submission Link: https://drive.google.com/drive/folders/1J596Fjr2qEkI7WR1pLcxc1a0G233ykyX?usp=sharing
 
-Google Dataflow Image links: https://gyazo.com/70a96def2ab82fcfcbd9238f07927bb0 
-
-                             https://gyazo.com/a34498f70cfc87d0c7a7ec5b9c2fabd2 
-														 
-                             https://gyazo.com/0d27cf6f66a5796df4101b712994dba3 
+Google Dataflow Image links: 
+https://gyazo.com/70a96def2ab82fcfcbd9238f07927bb0 
+https://gyazo.com/a34498f70cfc87d0c7a7ec5b9c2fabd2 
+https://gyazo.com/0d27cf6f66a5796df4101b712994dba3 
                       
 **This contains the data pipeline chart via Google Dataflow
 
